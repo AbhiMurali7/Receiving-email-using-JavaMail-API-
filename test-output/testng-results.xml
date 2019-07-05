@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-02T07:14:09Z" name="Default suite" finished-at="2019-07-02T07:14:28Z" duration-ms="19569">
+    <groups>
+    </groups>
+    <test started-at="2019-07-02T07:14:09Z" name="Default test" finished-at="2019-07-02T07:14:28Z" duration-ms="19569">
+      <class name="ReadExcelData.DataTestng.DataProviderWithExcel_007">
+        <test-method signature="f(java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_007@5ef60048]" started-at="2019-07-02T07:14:09Z" name="f" data-provider="Authentication" finished-at="2019-07-02T07:14:12Z" duration-ms="2936" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shield]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[********]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_007@5ef60048]" started-at="2019-07-02T07:14:12Z" name="afterMethod" finished-at="2019-07-02T07:14:12Z" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ReadExcelData.DataTestng.DataProviderWithExcel_007 -->
+      <class name="ReadExcelData.DataTestng.DataProviderWithExcel_001">
+        <test-method signature="f(java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_001@1d548a08]" started-at="2019-07-02T07:14:15Z" name="f" data-provider="Authentication" finished-at="2019-07-02T07:14:18Z" duration-ms="2549" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shield]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mani@1011]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_001@1d548a08]" started-at="2019-07-02T07:14:18Z" name="CloseBrowser" finished-at="2019-07-02T07:14:18Z" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- ReadExcelData.DataTestng.DataProviderWithExcel_001 -->
+      <class name="ReadExcelData.DataTestng.DataProviderWithExcel_002">
+        <test-method signature="f(java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_002@16aa0a0a]" started-at="2019-07-02T07:14:12Z" name="f" data-provider="Authentication" finished-at="2019-07-02T07:14:15Z" duration-ms="2506" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_002@16aa0a0a]" started-at="2019-07-02T07:14:15Z" name="afterMethod" finished-at="2019-07-02T07:14:15Z" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ReadExcelData.DataTestng.DataProviderWithExcel_002 -->
+      <class name="ReadExcelData.DataTestng.DataProviderWithExcel_005">
+        <test-method signature="f(java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_005@780cb77]" started-at="2019-07-02T07:14:18Z" name="f" data-provider="Authentication" finished-at="2019-07-02T07:14:20Z" duration-ms="2442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abhi@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_005@780cb77]" started-at="2019-07-02T07:14:20Z" name="afterMethod" finished-at="2019-07-02T07:14:20Z" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ReadExcelData.DataTestng.DataProviderWithExcel_005 -->
+      <class name="ReadExcelData.DataTestng.DataProviderWithExcel_006">
+        <test-method signature="f(java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_006@691a7f8f]" started-at="2019-07-02T07:14:21Z" name="f" data-provider="Authentication" finished-at="2019-07-02T07:14:23Z" duration-ms="2412" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@bhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mani@1011]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_006@691a7f8f]" started-at="2019-07-02T07:14:23Z" name="afterMethod" finished-at="2019-07-02T07:14:23Z" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ReadExcelData.DataTestng.DataProviderWithExcel_006 -->
+      <class name="ReadExcelData.DataTestng.DataProviderWithExcel_003">
+        <test-method signature="f(java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_003@50a7bc6e]" started-at="2019-07-02T07:14:23Z" name="f" data-provider="Authentication" finished-at="2019-07-02T07:14:26Z" duration-ms="2454" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shield]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abhi@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_003@50a7bc6e]" started-at="2019-07-02T07:14:26Z" name="afterMethod" finished-at="2019-07-02T07:14:26Z" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ReadExcelData.DataTestng.DataProviderWithExcel_003 -->
+      <class name="ReadExcelData.DataTestng.DataProviderWithExcel_004">
+        <test-method signature="f(java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_004@161b062a]" started-at="2019-07-02T07:14:26Z" name="f" data-provider="Authentication" finished-at="2019-07-02T07:14:28Z" duration-ms="2384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abinaya]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ReadExcelData.DataTestng.DataProviderWithExcel_004@161b062a]" started-at="2019-07-02T07:14:28Z" name="afterMethod" finished-at="2019-07-02T07:14:28Z" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ReadExcelData.DataTestng.DataProviderWithExcel_004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
